@@ -7,7 +7,7 @@ import qa.com.opencart.factory.DriverFactory;
 
 public class LoginPagetest {
 
-	@Test
+	//@Test
 	DriverFactory df= new DriverFactory();
 	
 	
